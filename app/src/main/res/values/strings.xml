@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">007</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="artist_names">Michael Jackson, Adele, Maroon 5</string>
+    <string name="temp">Suhayl SH</string>
+
+    <string name="destination_betaab">Betaab Valley</string>
+    <string name="destination_betaab_desc">Betaab valley is situated at a distance of 15 kilometers from Pahalgam in Anantnag district in India\'s northernmost state of Jammu &amp; Kashmir. Set amid picture perfect environs complete with snowcapped mountains &amp; colorful willow trees; making it an ideal for an artist\'s canvas!</string>
+
+    <string name="destination_baisaran">Baisaren Valley</string>
+    <string name="destination_baisaran_desc">Often dubbed as \'Mini Switzerland\' because of its long dark meadows resembling the ones in Switzerland, Baisaran is an eye-catching meadow, located just 5 km away from Pahalgam. A major tourist place to visit in Pahalgam, a voyage to the meadow is truly a treat for the senses.</string>
+
+</resources>
